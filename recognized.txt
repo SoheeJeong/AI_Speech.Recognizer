@@ -1,0 +1,11 @@
+#!MLF!#
+"tst/f/ak/1237743.txt.rec"
+six
+<s>
+zero
+one
+<s>
+zero
+one
+<s>
+.
